@@ -11,7 +11,7 @@ Continue reading for a written overview.
 
 There are 3 supported deployment options depending on your level of experience and need for customisation. If you don't know what you are doing you only need to read the beginner guide.
 
-- **Complete the [Choosing a database](#Choosing a database) and [Discord integration](#Discord integration) steps first, then choose your deployment method**
+- **Complete the [Choosing a database](#Choosing-a-database) and [Discord integration](#Discord-integration) steps first, then choose your deployment method**
 
 - [Beginner: Heroku](#Heroku-Beginner)
   - Advantages: Free, easy, no server configuration
