@@ -68,9 +68,9 @@ Set up a cloud server with [Docker](https://www.docker.com/) installed, I recomm
 - Replace `your-token-here` with your [Discord bot token](#Discord-integration)
 - Replace `/path/to/database` with a path to an  *absolute folder* on the same machine
 - Replace `repository name` with one of the following (you can also [view on Docker Hub](https://hub.docker.com/u/benjihiggins))
-  - `benjihiggins/discord-activity-monitor`
-  - `benjihiggins/discord-role-assigner`
-  - `benjihiggins/discord-rss-fetcher`
+  - `brhiggins/discord-activity-monitor`
+  - `brhiggins/discord-role-assigner`
+  - `brhiggins/discord-rss-fetcher`
 
 ### Customised command
 
